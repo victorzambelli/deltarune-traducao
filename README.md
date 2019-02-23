@@ -31,10 +31,10 @@ Vamos verificar se a tradução está correta, isso pode demorar um pouco, você
 
 **Gamepreie** - Dono dessa git e tradutor, corrige erros da tradução
 
+**KNG** - Tradutor, contribuiu para esta tradução
+
 **Tio refrigerante** - Tradutor, está traduzindo a maior parte do jogo
 
 **MRPowerGamerBR** - Tradutor e contribuidor
-
-**Eric Holmes** - Criador original do servidor do Discord da tradução
 
 **BMatSantos** - Responsável por possibilitar acentos no jogo.
