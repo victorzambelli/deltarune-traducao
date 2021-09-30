@@ -31,7 +31,7 @@ Vamos verificar se a tradução está correta, isso pode demorar um pouco, você
 
 **Gamepreie** - Dono dessa git e tradutor, corrige erros da tradução
 
-**KNG** - Tradutor, contribuiu para esta tradução
+**zKinG0D** - Tradutor, contribuiu para esta tradução
 
 **Tio refrigerante** - Tradutor, está traduzindo a maior parte do jogo
 
